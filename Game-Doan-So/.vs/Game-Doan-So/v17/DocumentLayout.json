@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\00Minhhai n\u0103m3 k\u00EC 1\\L\u1EADp_tr\u00ECnh_m\u1EA1ng\\TranLeAnhKiet,NguyenMinhHai_BTL\\Game-Doan-So\\Game-Doan-So\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262116CF-2AA1-4534-B2BE-C4908C4D5A98}|Server-DoanSo\\Server-DoanSo.csproj|e:\\00minhhai n\u0103m3 k\u00EC 1\\l\u1EADp_tr\u00ECnh_m\u1EA1ng\\tranleanhkiet,nguyenminhhai_btl\\game-doan-so\\game-doan-so\\server-doanso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262116CF-2AA1-4534-B2BE-C4908C4D5A98}|Server-DoanSo\\Server-DoanSo.csproj|solutionrelative:server-doanso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262116CF-2AA1-4534-B2BE-C4908C4D5A98}|Server-DoanSo\\Server-DoanSo.csproj|E:\\00Minhhai n\u0103m3 k\u00EC 1\\L\u1EADp_tr\u00ECnh_m\u1EA1ng\\TranLeAnhKiet,NguyenMinhHai_BTL\\Game-Doan-So\\Game-Doan-So\\server-doanso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{262116CF-2AA1-4534-B2BE-C4908C4D5A98}|Server-DoanSo\\Server-DoanSo.csproj|solutionrelative:server-doanso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 212,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\00Minhhai n\u0103m3 k\u00EC 1\\L\u1EADp_tr\u00ECnh_m\u1EA1ng\\TranLeAnhKiet,NguyenMinhHai_BTL\\Game-Doan-So\\Game-Doan-So\\Server-DoanSo\\Form1.cs",
+              "RelativeDocumentMoniker": "Server-DoanSo\\Form1.cs",
+              "ToolTip": "E:\\00Minhhai n\u0103m3 k\u00EC 1\\L\u1EADp_tr\u00ECnh_m\u1EA1ng\\TranLeAnhKiet,NguyenMinhHai_BTL\\Game-Doan-So\\Game-Doan-So\\Server-DoanSo\\Form1.cs",
+              "RelativeToolTip": "Server-DoanSo\\Form1.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAowKcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:08:39.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\00Minhhai n\u0103m3 k\u00EC 1\\L\u1EADp_tr\u00ECnh_m\u1EA1ng\\TranLeAnhKiet,NguyenMinhHai_BTL\\Game-Doan-So\\Game-Doan-So\\Server-DoanSo\\Form1.cs",
+              "RelativeDocumentMoniker": "Server-DoanSo\\Form1.cs",
+              "ToolTip": "E:\\00Minhhai n\u0103m3 k\u00EC 1\\L\u1EADp_tr\u00ECnh_m\u1EA1ng\\TranLeAnhKiet,NguyenMinhHai_BTL\\Game-Doan-So\\Game-Doan-So\\Server-DoanSo\\Form1.cs [Design]",
+              "RelativeToolTip": "Server-DoanSo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:26:51.949Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

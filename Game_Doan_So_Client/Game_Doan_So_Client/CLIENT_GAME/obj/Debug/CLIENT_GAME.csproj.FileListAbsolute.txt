@@ -1,0 +1,22 @@
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\bin\Debug\CLIENT_GAME.exe.config
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\bin\Debug\CLIENT_GAME.exe
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\bin\Debug\CLIENT_GAME.pdb
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.csproj.AssemblyReference.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.Properties.Resources.resources
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.csproj.GenerateResource.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.csproj.CoreCompileInputs.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.exe
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.pdb
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.exe.config
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.Form_Exit_phong.resources
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\bin\Debug\CLIENT_GAME.exe.config
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\bin\Debug\CLIENT_GAME.exe
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\bin\Debug\CLIENT_GAME.pdb
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.csproj.AssemblyReference.cache
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.exe.config
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.Form_Exit_phong.resources
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.Properties.Resources.resources
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.csproj.GenerateResource.cache
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.csproj.CoreCompileInputs.cache
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.exe
+C:\Users\kt722\Downloads\Game_Doan_So_Client\Game_Doan_So_Client\CLIENT_GAME\obj\Debug\CLIENT_GAME.pdb

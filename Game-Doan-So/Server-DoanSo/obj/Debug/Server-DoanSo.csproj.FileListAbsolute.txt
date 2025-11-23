@@ -1,0 +1,33 @@
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.exe.config
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.exe
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.pdb
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.AssemblyReference.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\obj\Debug\Server_DoanSo.FormServer.resources
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\obj\Debug\Server_DoanSo.Properties.Resources.resources
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.GenerateResource.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.CoreCompileInputs.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.exe
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.pdb
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\Bai_tap_lon\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.exe.config
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.exe.config
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.exe
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.pdb
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.AssemblyReference.cache
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.exe.config
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server_DoanSo.FormServer.resources
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server_DoanSo.Properties.Resources.resources
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.GenerateResource.cache
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.CoreCompileInputs.cache
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.exe
+C:\Users\kt722\Downloads\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.pdb
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.exe.config
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.exe
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\bin\Debug\Server-DoanSo.pdb
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.AssemblyReference.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.exe.config
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server_DoanSo.FormServer.resources
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server_DoanSo.Properties.Resources.resources
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.GenerateResource.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.csproj.CoreCompileInputs.cache
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.exe
+E:\00Minhhai năm3 kì 1\Lập_trình_mạng\TranLeAnhKiet,NguyenMinhHai_BTL\Game-Doan-So\Game-Doan-So\Server-DoanSo\obj\Debug\Server-DoanSo.pdb
